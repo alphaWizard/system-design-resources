@@ -13,6 +13,7 @@
     * https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG
     * https://www.educative.io/blog/system-design-tinyurl-instagram
     * https://cerbos.dev/blog/designing-an-authorization-model-for-an-enterprise
+    * https://github.com/donnemartin/system-design-primer#additional-system-design-interview-questions
 
 
 Footnotes/References:
