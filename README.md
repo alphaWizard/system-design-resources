@@ -10,6 +10,7 @@
 * Cardinality Estimation at scale - https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/
 * https://github.com/vasanthk/how-web-works
 * Design examples:
+    * https://stripe.com/blog/rate-limiters
     * https://www.educative.io/blog/uber-backend-system-design
     * https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG
     * https://www.educative.io/blog/system-design-tinyurl-instagram
