@@ -1,6 +1,7 @@
 # system-design-resources
 
 * Basics - https://coursehunters.online/t/educative-io-design-gurus-grokking-the-system-design-interview-part-5/584
+* Collective/generic design - https://github.com/donnemartin/system-design-primer
 * Design of some well known services:
     * https://www.educative.io/blog/uber-backend-system-design
     * https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG
