@@ -10,6 +10,7 @@
 * Consistent hashing - https://michaelnielsen.org/blog/consistent-hashing/
 * Service Mesh - https://www.nginx.com/learn/service-mesh/
 * Prometheus - Push vs Pull - https://prometheus.io/blog/2016/07/23/pull-does-not-scale-or-does-it/
+* Modern caches(LRU-LFU hybridisation) - http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html
 
 
 
