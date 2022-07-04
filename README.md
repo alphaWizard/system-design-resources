@@ -8,6 +8,7 @@
 * Prometheus - Push vs Pull - https://prometheus.io/blog/2016/07/23/pull-does-not-scale-or-does-it/
 * Modern caches(LRU-LFU hybridisation) - http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html
 * Cardinality Estimation at scale - https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/
+* Heavy Hitters - https://serhatgiydiren.github.io/system-design-interview-top-k-problem-heavy-hitters
 * https://github.com/vasanthk/how-web-works
 * Design examples:
     * https://stripe.com/blog/rate-limiters
