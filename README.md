@@ -10,6 +10,7 @@
 * Cardinality Estimation at scale - https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/
 * Heavy Hitters - https://serhatgiydiren.github.io/system-design-interview-top-k-problem-heavy-hitters
 * Spell Checkers - https://nullwords.wordpress.com/2013/03/13/the-bk-tree-a-data-structure-for-spell-checking/
+* Idempotency - https://stripe.com/blog/idempotency
 * https://github.com/vasanthk/how-web-works
 * Design examples:
     * https://stripe.com/blog/rate-limiters
