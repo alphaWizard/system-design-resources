@@ -2,7 +2,6 @@
 
 * Basics - https://coursehunters.online/t/educative-io-design-gurus-grokking-the-system-design-interview-part-5/584
 * Basics - https://learningdaily.dev/what-are-the-components-of-system-design-da16320bccf2
-* 
 * Collective/generic design - https://github.com/donnemartin/system-design-primer
 * Consistent hashing - https://michaelnielsen.org/blog/consistent-hashing/
 * Circuit Breaker pattern - https://martinfowler.com/bliki/CircuitBreaker.html
