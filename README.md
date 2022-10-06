@@ -13,6 +13,7 @@
 * Spell Checkers - https://nullwords.wordpress.com/2013/03/13/the-bk-tree-a-data-structure-for-spell-checking/
 * Idempotency - https://stripe.com/blog/idempotency
 * Distributed ID Generator - https://towardsdatascience.com/ace-the-system-design-interview-distributed-id-generator-c65c6b568027
+* Simple Audit tracker - https://medium.com/techtofreedom/4-common-designs-of-audit-trail-tracking-data-changes-in-databases-c894b7bb6d18
 * https://github.com/vasanthk/how-web-works
 * Design examples:
     * https://stripe.com/blog/rate-limiters
