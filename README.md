@@ -10,6 +10,7 @@
 * Modern caches(LRU-LFU hybridisation) - http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html
 * Cardinality Estimation at scale - https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/
 * Heavy Hitters - https://serhatgiydiren.github.io/system-design-interview-top-k-problem-heavy-hitters
+* Request batching - https://dropbox.tech/infrastructure/retrieving-thumbnails
 * Spell Checkers - https://nullwords.wordpress.com/2013/03/13/the-bk-tree-a-data-structure-for-spell-checking/
 * Idempotency - https://stripe.com/blog/idempotency
 * Distributed ID Generator - https://towardsdatascience.com/ace-the-system-design-interview-distributed-id-generator-c65c6b568027
