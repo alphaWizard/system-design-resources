@@ -13,7 +13,7 @@
 * Request batching - https://dropbox.tech/infrastructure/retrieving-thumbnails
 * Spell Checkers - https://nullwords.wordpress.com/2013/03/13/the-bk-tree-a-data-structure-for-spell-checking/
 * Idempotency - https://stripe.com/blog/idempotency
-* Distributed ID Generator - https://towardsdatascience.com/ace-the-system-design-interview-distributed-id-generator-c65c6b568027
+* Distributed ID Generator - https://towardsdatascience.com/ace-the-system-design-interview-distributed-id-generator-c65c6b568027, https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c
 * Simple Audit tracker - https://medium.com/techtofreedom/4-common-designs-of-audit-trail-tracking-data-changes-in-databases-c894b7bb6d18
 * https://github.com/vasanthk/how-web-works
 * Design examples:
