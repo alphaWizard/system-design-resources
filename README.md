@@ -15,6 +15,7 @@
 * Idempotency - https://stripe.com/blog/idempotency
 * Distributed ID Generator - https://towardsdatascience.com/ace-the-system-design-interview-distributed-id-generator-c65c6b568027, https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c
 * Simple Audit tracker - https://medium.com/techtofreedom/4-common-designs-of-audit-trail-tracking-data-changes-in-databases-c894b7bb6d18
+* Dead letter queue - https://aws.amazon.com/what-is/dead-letter-queue/
 * https://github.com/vasanthk/how-web-works
 * Design examples:
     * https://stripe.com/blog/rate-limiters
