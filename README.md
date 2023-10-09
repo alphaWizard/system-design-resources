@@ -17,6 +17,7 @@
 * Simple Audit tracker - https://medium.com/techtofreedom/4-common-designs-of-audit-trail-tracking-data-changes-in-databases-c894b7bb6d18
 * Dead letter queue - https://aws.amazon.com/what-is/dead-letter-queue/
 * https://github.com/vasanthk/how-web-works
+* https://mecha-mind.medium.com/think-twice-before-using-asyncio-in-python-7683472cb7a3
 * Design examples:
     * https://stripe.com/blog/rate-limiters
     * https://www.educative.io/blog/uber-backend-system-design
