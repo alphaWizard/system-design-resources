@@ -18,6 +18,7 @@
 * Dead letter queue - https://aws.amazon.com/what-is/dead-letter-queue/
 * https://github.com/vasanthk/how-web-works
 * https://mecha-mind.medium.com/think-twice-before-using-asyncio-in-python-7683472cb7a3
+* https://engineering.fb.com/2021/02/22/production-engineering/foqs-scaling-a-distributed-priority-queue/
 * Design examples:
     * https://stripe.com/blog/rate-limiters
     * https://www.educative.io/blog/uber-backend-system-design
