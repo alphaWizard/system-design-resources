@@ -21,6 +21,7 @@
 * https://engineering.fb.com/2021/02/22/production-engineering/foqs-scaling-a-distributed-priority-queue/
 * https://mecha-mind.medium.com/guesstimating-scalability-numbers-823d90ef0652
 * http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html
+* https://www.lukemelia.com/blog/archives/2010/01/17/redis-in-practice-whos-online/
 * Design examples:
     * https://stripe.com/blog/rate-limiters
     * https://www.educative.io/blog/uber-backend-system-design
