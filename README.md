@@ -23,6 +23,7 @@
 * http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html
 * https://www.lukemelia.com/blog/archives/2010/01/17/redis-in-practice-whos-online/
 * https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/stability-and-scalability-for-search
+* https://bytesizeddesign.substack.com/
 * Design examples:
     * https://stripe.com/blog/rate-limiters
     * https://www.educative.io/blog/uber-backend-system-design
