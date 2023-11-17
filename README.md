@@ -24,6 +24,7 @@
 * https://www.lukemelia.com/blog/archives/2010/01/17/redis-in-practice-whos-online/
 * https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/stability-and-scalability-for-search
 * https://bytesizeddesign.substack.com/
+* https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb
 * Design examples:
     * https://stripe.com/blog/rate-limiters
     * https://www.educative.io/blog/uber-backend-system-design
