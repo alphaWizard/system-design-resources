@@ -34,6 +34,7 @@
     * https://mecha-mind.medium.com/system-design-google-maps-c9dddca72df5
     * https://cerbos.dev/blog/designing-an-authorization-model-for-an-enterprise
     * https://github.com/donnemartin/system-design-primer#additional-system-design-interview-questions
+    * https://leetcode.com/discuss/study-guide/1251516/my-approach-for-machine-coding-rounds-lld
  
 
 
