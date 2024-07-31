@@ -29,6 +29,7 @@
 * https://github.com/david8zhang/system-design-notes
 * https://systemdesigndaily.com/
 * Design examples:
+    * Educative.io LLD - https://github.com/tssovi/grokking-the-object-oriented-design-interview/tree/master     
     * https://stripe.com/blog/rate-limiters
     * https://www.educative.io/blog/uber-backend-system-design
     * https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG
